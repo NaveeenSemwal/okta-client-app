@@ -1,0 +1,16 @@
+D:\AspNetCore_VisualStudio2017\client-okta\obj\Debug\netcoreapp2.0\client-okta.csprojResolveAssemblyReference.cache
+D:\AspNetCore_VisualStudio2017\client-okta\obj\Debug\netcoreapp2.0\client-okta.csproj.CoreCompileInputs.cache
+D:\AspNetCore_VisualStudio2017\client-okta\obj\Debug\netcoreapp2.0\client-okta.AssemblyInfoInputs.cache
+D:\AspNetCore_VisualStudio2017\client-okta\obj\Debug\netcoreapp2.0\client-okta.AssemblyInfo.cs
+D:\AspNetCore_VisualStudio2017\client-okta\obj\Debug\netcoreapp2.0\client-okta.dll
+D:\AspNetCore_VisualStudio2017\client-okta\obj\Debug\netcoreapp2.0\client-okta.pdb
+D:\AspNetCore_VisualStudio2017\client-okta\bin\client-okta.deps.json
+D:\AspNetCore_VisualStudio2017\client-okta\bin\client-okta.runtimeconfig.json
+D:\AspNetCore_VisualStudio2017\client-okta\bin\client-okta.runtimeconfig.dev.json
+D:\AspNetCore_VisualStudio2017\client-okta\bin\client-okta.dll
+D:\AspNetCore_VisualStudio2017\client-okta\bin\client-okta.pdb
+D:\AspNetCore_VisualStudio2017\client-okta\bin\Debug\netcoreapp2.0\client-okta.deps.json
+D:\AspNetCore_VisualStudio2017\client-okta\bin\Debug\netcoreapp2.0\client-okta.runtimeconfig.json
+D:\AspNetCore_VisualStudio2017\client-okta\bin\Debug\netcoreapp2.0\client-okta.runtimeconfig.dev.json
+D:\AspNetCore_VisualStudio2017\client-okta\bin\Debug\netcoreapp2.0\client-okta.dll
+D:\AspNetCore_VisualStudio2017\client-okta\bin\Debug\netcoreapp2.0\client-okta.pdb
